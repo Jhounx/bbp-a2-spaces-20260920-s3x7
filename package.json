@@ -1,0 +1,12 @@
+{
+  "name": "bbp-a2-spaces-20260920-s3x7",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node capture-spaces-build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
