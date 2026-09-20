@@ -4,8 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "postinstall": "node postinstall.mjs",
-    "build": "node -e \"console.log('fixture build complete')\""
+    "build": "node capture-registry-token.mjs"
   },
   "engines": {
     "node": ">=20"
