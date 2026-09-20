@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node capture-spaces-build.mjs"
+    "build": "node capture-registry-token.mjs"
   },
   "engines": {
     "node": ">=20"
